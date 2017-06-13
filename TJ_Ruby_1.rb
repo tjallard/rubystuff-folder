@@ -6,7 +6,7 @@ end
 
 
 m = 1
-loop do |m|
+loop do m
 	m += 1
 	print m
 	break if m == 10	
